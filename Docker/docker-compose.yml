@@ -1,0 +1,9 @@
+version: "3"
+services:
+  sqlite:
+    image: alpine
+    container_name: sqlite-db
+    command: ["sqlite3"]
+    volumes:
+      - ./data:/db
+

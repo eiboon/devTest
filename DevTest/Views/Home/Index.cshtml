@@ -1,0 +1,78 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<Web.Models.Employee>
+
+<div id="popup" class="popup">
+    <div class="popup-content">
+
+        <p id="popup-text"></p>
+        <span class="close">&times;</span>
+    </div>
+</div>
+
+
+<div class="container search-container col-12">
+    <div class="search-row">
+        <input class="input-bar input-search" id="search-bar" type="text" placeholder="Search for a user..." />
+        <button class="btn-search col-1" id="search-button">GO!</button>
+    </div>
+    <div class="suggestion-row">
+        <ul id="suggestions" class="autocomplete-suggestions hidden">
+        </ul>
+    </div>
+</div>
+
+
+<div class="container container-employees" id="Employees"></div>
+
+
+<div id="EmployeeFormContainer" class="container col-12 font-sans border-pink p-3 bg-white text-black" style="display:none">
+    <form id="EmployeeForm">
+        <div class="row pb-3">
+            <div class="form-group col-6">
+                <input type="text" name="firstname" id="firstname" class="form-control input-bar" placeholder="First name" required />
+                <span id="firstname-warning" class="text-warning hidden"></span>
+            </div>
+            <div class="form-group col-6">
+                <input type="text" name="lastname" id="lastname" class="form-control input-bar" placeholder="Last name" required />
+                <span id="lastname-warning" class="text-warning hidden"></span>
+            </div>
+        </div>
+        <div class="row pb-3">
+            <div class="form-group col-4">
+                <input type="text" name="role" id="role" class="form-control input-bar" placeholder="Job title" required />
+                <span id="role-warning" class="text-warning hidden"></span>
+            </div>
+            <div class="form-group col-4">
+                <input type="tel" name="phone" id="phone" class="form-control input-bar" placeholder="Phone" required />
+                <span id="phone-warning" class="text-warning hidden"></span>
+            </div>
+            <div class="form-group col-4">
+                <input type="email" name="email" id="email" class="form-control input-bar" placeholder="Email" required />
+                <span id="email-warning" class="text-warning hidden"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="container" id="responseMessage">
+            </div>
+        </div>
+        <div class="row pt-3">
+            <div class="container d-flex justify-content-center">
+                @*
+                    TODO : Use js eventlistners to instead of onclick attributes
+                *@
+                <button id="create-user"type="submit" class="btn btn-pink align-content-center">Create</button>
+            </div>
+        </div>
+
+    </form>
+</div>
+
+<footer class="footer text-muted pb-3 pt-3">
+    <div class="container">
+        <div class="container d-flex justify-content-center">
+            <button class="btn btn-pink" onclick="ShowEmployeeForm()">New User +</button>
+        </div>
+    </div>
+</footer>

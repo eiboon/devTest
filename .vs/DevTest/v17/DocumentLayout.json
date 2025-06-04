@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daveg\\source\\repos\\DevTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|c:\\users\\daveg\\source\\repos\\devtest\\devtest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|solutionrelative:devtest\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|c:\\users\\daveg\\source\\repos\\devtest\\devtest\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|solutionrelative:devtest\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|c:\\users\\daveg\\source\\repos\\devtest\\devtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|solutionrelative:devtest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|c:\\users\\daveg\\source\\repos\\devtest\\devtest\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|solutionrelative:devtest\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|c:\\users\\daveg\\source\\repos\\devtest\\devtest\\models\\employeeerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|solutionrelative:devtest\\models\\employeeerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|c:\\users\\daveg\\source\\repos\\devtest\\devtest\\models\\ierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|solutionrelative:devtest\\models\\ierrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|c:\\users\\daveg\\source\\repos\\devtest\\devtest\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|solutionrelative:devtest\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|c:\\users\\daveg\\source\\repos\\devtest\\devtest\\models\\simplerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|solutionrelative:devtest\\models\\simplerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|c:\\users\\daveg\\source\\repos\\devtest\\devtest\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|solutionrelative:devtest\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|c:\\users\\daveg\\source\\repos\\devtest\\devtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8580BF56-4B16-4E98-BD65-8459A29D102B}|DevTest\\Web.csproj|solutionrelative:devtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Models\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "DevTest\\Models\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Models\\EmployeeDbContext.cs",
+              "RelativeToolTip": "DevTest\\Models\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:01:05.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "DevTest\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Models\\Employee.cs",
+              "RelativeToolTip": "DevTest\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:31:07.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Models\\IErrorResponse.cs",
+              "RelativeDocumentMoniker": "DevTest\\Models\\IErrorResponse.cs",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Models\\IErrorResponse.cs",
+              "RelativeToolTip": "DevTest\\Models\\IErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:49:24.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Models\\EmployeeErrorResponse.cs",
+              "RelativeDocumentMoniker": "DevTest\\Models\\EmployeeErrorResponse.cs",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Models\\EmployeeErrorResponse.cs",
+              "RelativeToolTip": "DevTest\\Models\\EmployeeErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T03:17:35.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DevTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DevTest\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwGUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:49:20.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DevTest\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DevTest\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-03T12:33:31.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SimpleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Models\\SimpleRepo.cs",
+              "RelativeDocumentMoniker": "DevTest\\Models\\SimpleRepo.cs",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Models\\SimpleRepo.cs",
+              "RelativeToolTip": "DevTest\\Models\\SimpleRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:03:54.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Program.cs",
+              "RelativeDocumentMoniker": "DevTest\\Program.cs",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Program.cs",
+              "RelativeToolTip": "DevTest\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T04:15:19.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "DevTest\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "DevTest\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAuwIcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-03T11:33:34.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DevTest\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\daveg\\source\\repos\\DevTest\\DevTest\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DevTest\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAnwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T11:33:02.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

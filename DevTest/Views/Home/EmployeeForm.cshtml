@@ -1,0 +1,36 @@
+@model Web.Models.Employee
+<style src="~/lib/bootstrap/css/bootstrap.css"></style>
+<div class="container col-12 font-sans boarder-pink p-3 bg-white text-black">
+    <form asp-action="EmployeeForm" method="post">
+        <div class="row pb-3">
+            <div class="form-group col-6">
+                <input asp-for="FirstName" class="form-control input-bar" placeholder="First name" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group col-6">
+                <input asp-for="LastName" class="form-control input-bar" placeholder="Last name" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row pb-3">
+            <div class="form-group col-4">
+                <input asp-for="Role" class="form-control input-bar" placeholder="Job title" />
+                <span asp-validation-for="Role" class="text-danger"></span>
+            </div>
+            <div class="form-group col-4">
+                <input asp-for="Phone" class="form-control input-bar" type="tel" placeholder="Phone" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group col-4">
+                <input asp-for="Email" class="form-control input-bar" type="email" placeholder="Email" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="container d-flex justify-content-center">
+                <button type="submit" class="btn btn-pink align-content-center">Create</button>
+            </div>
+        </div>
+
+    </form>
+</div>
